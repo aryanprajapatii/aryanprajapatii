@@ -1,5 +1,5 @@
 <!-- <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" /> -->
-
+![logo](https://github.com/aryanprajapatii/aryanprajapatii/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Aryan Prajapati</h1>
 
 <h3 align="center">💻 Full Stack Developer • ☕ Java Developer • 🚀 Spring Boot Developer</h3>
