@@ -70,125 +70,71 @@ public class AryanPrajapati {
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🛠️ Tech Arsenal
+🛠️ Tech Arsenal
+☕ Java & Backend Development
 
-### 💻 Programming & Backend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
 </p>
 
-**Java • Spring Boot • Hibernate • REST APIs • Spring Security**
+⚛️ Frontend Development
 
-### 🎨 Frontend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
 </p>
 
-**HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS**
+💾 Database
 
-### 🗄️ Database
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
-**MySQL • PostgreSQL**
+🧰 Tools & Platforms
 
-### 🔧 Tools
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
 </p>
 
-**Git • GitHub • VS Code • IntelliJ IDEA • Postman**
+🧠 Problem Solving
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
 
-## 📊 Current Focus
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-50%25-blue?style=for-the-badge"/>
 
-### ☕ Backend & Java
-
-<p>
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/90%25-90%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/90%25-90%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/90%25-90%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/90%25-90%25-success?style=flat-square" />
-</p>
-
-<p>
-🔐 Spring Security
-<img src="https://img.shields.io/badge/75%25-75%25-orange?style=flat-square" />
-</p>
-
-### ⚛️ Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/85%25-85%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/65%25-65%25-yellow?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/80%25-80%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/80%25-80%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/80%25-80%25-success?style=flat-square" />
-</p>
-
-### 🗄️ Database & Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/90%25-90%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/85%25-85%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/80%25-80%25-success?style=flat-square" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>
-<img src="https://img.shields.io/badge/85%25-85%25-success?style=flat-square" />
-</p>
-
-### 🧠 Problem Solving
-
-<p>
-🧩 DSA
-<img src="https://img.shields.io/badge/50%25-50%25-yellow?style=flat-square" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
